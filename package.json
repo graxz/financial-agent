@@ -1,0 +1,16 @@
+{
+  "name": "financial-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agent.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@google/adk-devtools": "^2.1.0"
+  }
+}
